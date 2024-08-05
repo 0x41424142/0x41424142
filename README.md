@@ -12,10 +12,10 @@ I'm a cybersecurity engineer that loves to build things, solve problems, and tin
 - X (Twitter): [JNLindsayy](https://x.com/JNLindsayy)
 - My Website: [www.jakelindsay.uk](https://www.jakelindsay.uk)
 
-## ⚡ Fun fact
+## 👨‍💻 A Bit About Me
 
 I enjoy working on personal projects and coding in Python. 
 
-When I'm not coding, I like to collect vinyl, build PCs, and watch Baltimore sports.
+When I'm not coding, I like to collect vinyl, build PCs, play guitar and watch Baltimore sports.
 
 ## Thanks for stopping by! Say hi to my cat Cisco!
