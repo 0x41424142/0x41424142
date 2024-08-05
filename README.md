@@ -9,7 +9,8 @@ I'm a cybersecurity engineer that loves to build things, solve problems, and tin
 ## 📫 How to reach me
 
 - Email: [jake@jakelindsay.uk](mailto:jake@jakelindsay.uk)
-- X (Twitter) [JNLindsayy](https://x.com/JNLindsayy)
+- X (Twitter): [JNLindsayy](https://x.com/JNLindsayy)
+- My Website: [jakelindsay.uk](https://jakelindsay.uk)
 
 ## ⚡ Fun fact
 
