@@ -1,4 +1,4 @@
-# Hi there, I'm Jake! 👋
+# 👋 Hi there, I'm Jake!
 
 I'm a cybersecurity engineer that loves to build things, solve problems, and tinker.
 
