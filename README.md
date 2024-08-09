@@ -10,12 +10,13 @@ I'm a cybersecurity engineer that loves to build things, solve problems, and tin
 
 ## 📫 How to reach me
 
-<img alt="Static Badge" src="https://img.shields.io/badge/MailTo-jake%40jakelindsay.uk-purple?style=for-the-badge&logo=gmail&link=mail%20to%3Ajake%40jakelindsay.uk"></img>
+[![MAILTO Badge/Link](https://img.shields.io/badge/MailTo-jake%20%5Bat%5D%20jakelindsay%20%5Bdot%5D%20uk-blue?style=for-the-badge&labelColor=black)](mailto:jake@jakelindsay.uk)
 
 
-<img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/JNLindsayy?style=for-the-badge&logo=x&color=black&link=https%3A%2F%2Fx.com%2Fjnlindsayy"></img>
 
-<img alt="Static Badge" src="https://img.shields.io/badge/My%20Website-www.jakelindsay.uk-purple?style=for-the-badge&link=https%3A%2F%2Fwww.jakelindsay.uk"></img>
+[![X (Twitter) Link](https://img.shields.io/twitter/follow/JNLindsayy?style=for-the-badge&logo=x&color=blue&labelColor=black)](https://x.com/jnlindsayy)
+
+[![My Website Link](https://img.shields.io/badge/My%20Website-www.jakelindsay.uk-blue?style=for-the-badge&labelColor=black)](https://www.jakelindsay.uk)
 
 ## 👨‍💻 A Bit About Me
 
@@ -25,4 +26,4 @@ When I'm not coding, I like to collect vinyl, build PCs, play guitar and watch B
 
 ## Thanks for Stopping By!
 
-![Thx4Reading](https://img.shields.io/badge/Thanks%20For-Stopping%20By!-red?style=for-the-badge) ![SayHi2Cisco](https://img.shields.io/badge/Say%20Hi%20to-Cisco!-red?style=for-the-badge)
+![Thx4Reading](https://img.shields.io/badge/Thanks%20For-Stopping%20By!-yellow?style=for-the-badge&labelColor=black) ![SayHi2Cisco](https://img.shields.io/badge/Say%20Hi%20to-Cisco!-yellow?style=for-the-badge&labelColor=black)
