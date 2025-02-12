@@ -20,12 +20,4 @@ I'm a cybersecurity engineer that loves to build things, solve problems, and tin
   [![X (Twitter) Link](https://img.shields.io/twitter/follow/JNLindsayy?style=for-the-badge&logo=x&color=black&labelColor=black)](https://x.com/jnlindsayy)  </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank">  [![My Website Link](https://img.shields.io/badge/My%20Website-www.jakelindsay.uk-blue?style=for-the-badge&labelColor=black)](https://www.jakelindsay.uk)  </a>
 
-## 👨‍💻 A Bit About Me
-
-I enjoy working on personal projects and coding in Python. 
-
-When I'm not coding, I like to collect vinyl, build PCs, play guitar and watch Baltimore sports.
-
-![Thx4Reading](https://img.shields.io/badge/Thanks%20For-Stopping%20By!-blue?style=for-the-badge&labelColor=black)
-
 </div>
