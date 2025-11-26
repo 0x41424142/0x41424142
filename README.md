@@ -4,15 +4,12 @@
 
 <br>
 
-I'm a cybersecurity engineer that loves to build things, solve problems, and tinker.
+I'm a PKI engineer that loves to build things, solve problems, and tinker.
 
 <br>
 
 ![PythonPowered](https://img.shields.io/badge/Python-Powered-Yellow?style=for-the-badge&logo=python&logoColor=yellow&labelColor=blue&color=yellow) ![Go Ravens & O's!](https://img.shields.io/badge/Ravens%20and-O%E2%80%99s!-black?style=for-the-badge&labelColor=purple&color=orange)
 
-## 📈 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=0x41424142&show_icons=true&theme=transparent&hide_rank=true)
 
 ## 📫 How to reach me
 
